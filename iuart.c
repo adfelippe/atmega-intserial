@@ -1,6 +1,6 @@
 /*
 ** @file iuart.c
-** @author Anderson Felippe <afelippe@techworks.ie>
+** @author Anderson Felippe <anderson@sagainfo.com.br>
 ** @date Mon Aug 20 	2012
 */
 
